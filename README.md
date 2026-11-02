@@ -36,7 +36,8 @@ Testing Records: 143
 
 ## 3. GitHub Repository
 
-Repository Link: [Add your GitHub link after uploading]
+Repository Link:
+https://github.com/Balakumaran-sys/NPHA-Doctor-Visits-Classification
 
 ## 4. Models Implemented
 
@@ -120,10 +121,13 @@ The deployed application allows users to:
 - View the confusion matrix
 - View the classification report
 
-The application loads previously saved models
-without retraining on uploaded test data.
+The application allows users to upload test data,
+select a trained classifier, view six evaluation
+metrics, and inspect the confusion matrix and
+classification report without retraining.
 
-Live App Link: [Add after deployment]
+Live Application:
+https://npha-doctor-visits-classification-cvheo22qcxbndaupkrdcy.streamlit.app
 
 # NPHA Doctor Visits Classification
 
